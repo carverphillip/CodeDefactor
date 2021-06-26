@@ -1,1 +1,1 @@
-# CodeDefactor
+This project is called the Code Defactor where I have been hired to make the page more accessibility for all users to have the same amount of accessability. Within this page, I was able to change the main background colors to being white instead of blue for people who may have been color blind. Not only this but I also made it easier to tell which of the titles is the main header for the web page. Doing this, included increasing the font size of the header to where it more obvious of it being the web page name. 
